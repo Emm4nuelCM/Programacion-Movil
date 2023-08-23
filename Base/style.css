@@ -1,0 +1,26 @@
+body
+.head-left {
+    background-color: darkred;
+
+}
+
+.head-right {
+    background-color: orange;
+}
+
+.middle {
+    background-color: gray; 
+    padding: 117px;
+}
+
+.lower-left {
+    background-color: greenyellow;
+}
+
+.lower-middle {
+    background-color: cyan;
+}
+
+.lower-right {
+    background-color: green;
+}
